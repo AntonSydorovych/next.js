@@ -1,0 +1,13 @@
+* {
+    color: white;
+}
+
+.link {
+    color: white;
+}
+
+.userInList {
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
